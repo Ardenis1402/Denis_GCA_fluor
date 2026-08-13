@@ -11,7 +11,7 @@ This repository contains the dataset underlying the results presented in the man
 
 ## File description
 
-**`Data.xlsx`** contains the following sheets:
+**`Denis_GCA_Data.xlsx`** contains the following sheets:
 
 | Sheet | Content |
 |---|---|
