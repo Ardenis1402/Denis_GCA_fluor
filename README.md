@@ -36,7 +36,7 @@ And cite this dataset directly using the DOI provided in the sidebar (generated 
 
 ## License
 
-*Specify a license here (e.g. CC-BY 4.0) before making the repository public.*
+ CC-BY 4.0
 
 ## Contact
 
