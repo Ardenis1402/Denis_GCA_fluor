@@ -30,7 +30,7 @@ Each sheet is organised by soil (VA, BA, GA, HA), following the structure of the
 
 If you use this data, please cite:
 
-> Denis, A., Delmelle, P. (2026). Towards a common surface complexation model for describing fluoride adsorption on Andosols. *Geochimica et Cosmochimica Acta* (in press).
+> Denis, A., Delmelle, P. (2026). Towards a common surface complexation model for describing fluoride adsorption on Andosols. *Geochimica et Cosmochimica Acta* (submitted).
 
 And cite this dataset directly using the DOI provided in the sidebar (generated via Zenodo upon release).
 
